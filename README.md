@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I am working as a FullStack Engineer at PayPal<br>🌱 I have worked at various reputed organizations including Meesho, Standard Chartered, and Juspay.<br>👩‍💻 I find my technical interests in Problem Solving, Full-stack development, Technical writing, and open source!<br>👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. Connect with me for 1:1 on Calendly(https://calendly.com/ashigup11/)<br>🎤 I just love public speaking and leading various communities and so I have been in various leadership positions.<br>
+🔭 I am working as a FullStack Engineer at PayPal<br>🌱 I have worked at various reputed organizations including Meesho, Standard Chartered, and Juspay.<br>👩‍💻 I find my technical interests in Problem Solving, Full-stack development, Technical writing, and open source!<br>👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. Connect with me for 1:1 on ![Calendly](https://calendly.com/ashigup11/)<br>🎤 I just love public speaking and leading various communities and so I have been in various leadership positions.<br>
 
 
 ## 🌐 Socials:
